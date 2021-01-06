@@ -1,7 +1,7 @@
 '''
 Author: CC-TSR
 Date: 2021-01-05 19:20:15
-LastEditTime: 2021-01-06 11:15:29
+LastEditTime: 2021-01-06 18:50:09
 LastEditors: xiejiancheng1999@qq.com
 Description: 
 FilePath: \teach_for_noobXi\helloWorld.py
